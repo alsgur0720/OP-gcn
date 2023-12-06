@@ -1,4 +1,4 @@
-# HD-GCN
+# OP-GCN
 
 # Dependencies
 
